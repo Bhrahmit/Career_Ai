@@ -1,5 +1,6 @@
-
 myenv/
 uploads/
+__pycache__/
+*.pyc
 *.dll
 *.pdf
